@@ -1,6 +1,6 @@
 # Amazon-Product-Review-Dashboard
 
-https://docs.google.com/presentation/d/1SiGHI9DBFgbuVU0lKRGzbfythpCZdUpBPW1EREcXaPY/edit?usp=sharing
+[Slide Show](https://docs.google.com/presentation/d/1SiGHI9DBFgbuVU0lKRGzbfythpCZdUpBPW1EREcXaPY/edit?usp=sharing)
 
 
 Impact Analysis
