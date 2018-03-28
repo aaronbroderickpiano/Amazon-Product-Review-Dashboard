@@ -1,4 +1,4 @@
-### Amazon Topic Summarization Dashboard
+### Amazon Review Topic Summarization Dashboard
 
 
 You can view the dashboard [here](https://plot.ly/dashboard/aaronbroderickpiano:34/view?share_key=jNG1qLEKJqP71Vdn3u6tqi)
