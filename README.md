@@ -1,6 +1,7 @@
 # Amazon-Product-Review-Dashboard
 
-The finished dashboard is here.
+https://docs.google.com/presentation/d/1SiGHI9DBFgbuVU0lKRGzbfythpCZdUpBPW1EREcXaPY/edit?usp=sharing
+
 
 Impact Analysis
 https://plot.ly/dashboard/aaronbroderickpiano:34/view?share_key=jNG1qLEKJqP71Vdn3u6tqi
